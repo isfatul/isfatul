@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chowdhury-i-367378142/](https://www.linkedin.com/in/chowdhury-i-367378142/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/chowdhury-i-367378142/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
