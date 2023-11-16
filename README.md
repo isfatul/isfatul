@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chowdhury Isfatul Karim!</h1>
+<h1 align="center">Hi 👋, I'm Chowdhury Isfatul Karim</h1>
 <h4 align="center">Computer Science and Engineering @ BRAC University | Co-founder @ PixL. | React Developer</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isfatul&label=Profile%20views&color=0e75b6&style=flat" alt="isfatul" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isfatul&show_icons=true&locale=en&layout=compact" alt="isfatul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isfatul&" alt="isfatul" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isfatul&label=Profile%20views&color=0e75b6&style=flat" alt="isfatul" /> </p>
