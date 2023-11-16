@@ -1,8 +1,6 @@
 # Hi 👋, I'm Chowdhury Isfatul Karim
 **`Computer Science and Engineering @ BRAC University | Co-founder @ PixL. | React Developer`**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [SoftCar](https://softcartech.com/)
 
 - 🌱 I’m currently learning **Image Processing, ML/DL, Swift**
