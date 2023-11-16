@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chowdhury Isfatul Karim</h1>
-'''Computer Science and Engineering @ BRAC University | Co-founder @ PixL. | React Developer'''
+# Hi 👋, I'm Chowdhury Isfatul Karim
+**`Computer Science and Engineering @ BRAC University | Co-founder @ PixL. | React Developer`**
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
