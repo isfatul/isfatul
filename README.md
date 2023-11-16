@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chowdhury Isfatul Karim
-**`Computer Science and Engineering @ BRAC University | Co-founder @ PixL. | React Developer`**
+**`Computer Science and Engineering @ [BRAC University][https://bracu.ac.bd] | Co-founder @ PixL. | React Developer`**
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
