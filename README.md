@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/chowdhury-i-367378142/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/isfatul/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/isfatulcodersbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isfatulcodersbd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chowdhury-i-367378142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chowdhury-i-367378142" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chowdhury-i-367378142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isfatul" height="30" width="40" /></a>
 <a href="https://fb.com/isfatul.karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isfatul.karim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/isfatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isfatul" height="30" width="40" /></a>
 </p>
