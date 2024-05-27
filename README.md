@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS, Python, DSA**
 
-- 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd**
+- 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd** (for academic purpose), **isfatul@nyntax.com** (for business purpose)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/isfatul/)
 
