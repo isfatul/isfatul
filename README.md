@@ -1,13 +1,13 @@
 # Hi 👋, I'm Chowdhury Isfatul Karim
 **`Computer Science @ BRAC University | Co-founder @ Nyntax | React Developer`**
 
-- 🔭 I’m currently working on [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), [alphaXiv](https://alphaxiv.org) and PocketChange.
+- 🔭 I’m currently working on [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), [alphaXiv](https://alphaxiv.org), PocketChange and [Stanford AI Club](https://aiclub.stanford.edu/).
 
 - 🌱 I’m currently learning **Computer Graphics**
 
-- 💬 Ask me about **ReactJS, NextJS, Python, DSA**
+- 💬 Ask me about **ReactJS, NextJS, Python, DSA, Jogajog**
 
-- 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd** (for academic purpose), **isfatul@nyntax.com** (for business purpose)
+- 📫 How to reach me **chowdhury.isfatul.karim@g.bracu.ac.bd** (for academic purpose), **isfatul@nyntax.com** (for work purpose)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/isfatul/)
 
