@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chowdhury Isfatul Karim
 **`Computer Science @ BRAC University | Co-founder @ Nyntax | React Developer`**
 
-- 🔭 I’m currently working on [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), [alphaXiv](https://alphaxiv.org), PocketChange and [Stanford AI Club](https://aiclub.stanford.edu/).
+- 🔭 I’m currently working with [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), PocketChange, [WROBd](https://wrobd.org/) and [Stanford AI Club](https://aiclub.stanford.edu/).
 
 - 🌱 I’m currently learning **Computer Graphics**
 
