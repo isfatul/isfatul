@@ -1,9 +1,9 @@
 # Hi 👋, I'm Chowdhury Isfatul Karim
 **`Computer Science @ BRAC University | Co-founder @ Nyntax | React Developer`**
 
-- 🔭 I’m currently working with [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), PocketChange, [WROBd](https://wrobd.org/) and [Stanford AI Club](https://aiclub.stanford.edu/).
+- 🔭 I’m currently working with [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), ParkHere and [Stanford AI Club](https://aiclub.stanford.edu/).
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently researching **Adaptive Self-Supervision for Cross-Language Generalization in Multilingual Conformer-Based Visual Speech Recognition**
 
 - 💬 Ask me about **ReactJS, NextJS, Python, DSA, Jogajog**
 
