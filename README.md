@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with [SoftCar](https://softcartech.com/), [Zoey Travel](https://zoeytravel.com/), ParkHere and [Stanford AI Club](https://aiclub.stanford.edu/).
 
-- 🌱 I’m currently researching **Adaptive Self-Supervision for Cross-Language Generalization in Multilingual Conformer-Based Visual Speech Recognition**
+- 🌱 I’m currently doing a research on **Adaptive Self-Supervision for Cross-Language Generalization in Multilingual Conformer-Based Visual Speech Recognition**
 
 - 💬 Ask me about **ReactJS, NextJS, Python, DSA, Jogajog**
 
